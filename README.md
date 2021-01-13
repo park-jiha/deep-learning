@@ -1,3 +1,4 @@
 # deep-learning
 
-## 스터디 실습 자료
+## Sejong_Smarcle
+### 2021 Winter AI Study
