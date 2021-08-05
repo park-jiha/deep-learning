@@ -1,4 +1,4 @@
-# **eep-learning**
+# **Deep-learning**
 
 ## Sejong_Smarcle - 2021 Winter AI Study
 
